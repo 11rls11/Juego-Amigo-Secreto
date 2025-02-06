@@ -12,7 +12,7 @@ El siguiente juego del Amigo Secreto permite al jugador ingresar los nombres de 
 
 ![El mínimo de nombres de amigos es de 2](readmeimgandvid/amigo-secreto-nombres-minimo.png)
 
-- Puedes jugar ya sea clonando el repositorio de manera local e instalando la extensión **Live Server** en **Visual Studio Code** o mediante el **Deployment** de este mismo repositorio.
+- Puedes jugar ya sea clonando el repositorio de manera local e instalando la extensión **Live Server** en **Visual Studio Code** o mediante el [**Deployment**](https://11rls11.github.io/Juego-Amigo-Secreto/) de este mismo repositorio.
 
 ---
 
