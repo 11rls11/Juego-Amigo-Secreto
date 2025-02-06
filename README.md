@@ -33,7 +33,7 @@ El siguiente juego del Amigo Secreto permite al jugador ingresar los nombres de 
 
 ## Instalación de la extensión Live Server en VSCode
 
-![Instalando Live Server en VSCode](https://github.com/user-attachments/assets/f19dcca3-632b-4c28-92d6-42b160124f26)
+[Instalando Live Server en VSCode](https://github.com/user-attachments/assets/f19dcca3-632b-4c28-92d6-42b160124f26)
 
 ## Uso
 
