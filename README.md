@@ -53,10 +53,8 @@ main
 │    └─── play_circle_outline.png
 └─── readmeimgandvid
 │    └─── amigo-secreto-fin-juego.png
-│    └─── amigo-secreto-instalar-extension-live-server.mp4
 │    └─── amigo-secreto-main-page.png
 │    └─── amigo-secreto-nombres-minimo.png
-│    └─── amigo-secreto-prueba-de-juego.mp4
 │    └─── live-server-vscode.png
 │   
 └─── app.js
