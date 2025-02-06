@@ -33,16 +33,11 @@ El siguiente juego del Amigo Secreto permite al jugador ingresar los nombres de 
 
 ## Instalación de la extensión Live Server en VSCode
 
-![Live Server en VSCode](readmeimgandvid/live-server-vscode.png)
-
-[Instalando Live Server en VSCode](readmeimgandvid/amigo-secreto-instalar-extension-live-server.mp4)
+![Instalando Live Server en VSCode](https://github.com/user-attachments/assets/f19dcca3-632b-4c28-92d6-42b160124f26)
 
 ## Uso
 
-![Live Server en VSCode](readmeimgandvid/amigo-secreto-fin-juego.png)
-
-
-[Jugando el Juego del Amigo Secreto](readmeimgandvid/amigo-secreto-prueba-de-juego.mp4)
+[Jugando el Juego del Amigo Secreto](https://github.com/user-attachments/assets/b89022b5-9ea4-48d5-98c4-b0750d32d282)
 
 1. **Coloca los nombres de tus amigos** ingresandolos con **Enter** o presionando el botón **Añadir**
 
